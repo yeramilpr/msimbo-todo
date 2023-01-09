@@ -32,8 +32,8 @@
 
 ### HTML
 
-- [ ] I can design a semantic HTML table
-- [ ] I can design a semantic HTML form
+- [x] I can design a semantic HTML table
+- [x] I can design a semantic HTML form
 - [ ] I can design a semantic div's 
 - [ ] I can write semantic headers 
 
