@@ -2,31 +2,31 @@
 
 - [ ] windows sub.system for Linux
 - [x] GitHub username/account
-- [ ] Create a new file from the CLI
-- [ ] Delete a new file from the CLI
-- [ ] Create a new folder from the CLI
-- [ ] Delete a new folder from the CLI
-- [ ] Create a HTML file in a folder from the CLI
-- [ ] Create a CSS file in a folder from the CLI
-- [ ] Create a JS file in a folder from the CLI
+- [x] Create a new file from the CLI. touch
+- [x] Delete a new file from the CLI. rm
+- [x] Create a new folder from the CLI. mkdir
+- [x] Delete a new folder from the CLI. rm -r for non-empty folders. rmdir/rm -d for empty folders
+- [x] Create a HTML file in a folder from the CLI
+- [x] Create a CSS file in a folder from the CLI
+- [x] Create a JS file in a folder from the CLI
 
 ***
 
 - [x] Create a new file from the VS code
-- [ ] Delete a new file from the VS code
+- [x] Delete a new file from the VS code
 - [x] Create a new folder from the VS code
-- [ ] Delete a new folder from the VS code
-- [ ] Create a HTML file in a folder from the VS code
-- [ ] Create a CSS file in a folder from the VS code
-- [ ] Create a JS file in a folder from the VS code
+- [x] Delete a new folder from the VS code
+- [x] Create a HTML file in a folder from the VS code
+- [x] Create a CSS file in a folder from the VS code
+- [x] Create a JS file in a folder from the VS code
 
 ***
 
 ### Git
 
-- [x] I can clone from a GitHub repo
-- [x] I can push to a GitHub repo
-- [x] I can deploy to Versel 
+- [x] I can clone from a GitHub repo. git clone address
+- [x] I can push to a GitHub repo. git add *; git commit -m "comment"; git push -u origin main
+- [x] I can deploy to Vercel 
 
 ***
 
